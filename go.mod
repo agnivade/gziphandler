@@ -1,4 +1,4 @@
-module github.com/NYTimes/gziphandler
+module github.com/agnivade/gziphandler
 
 go 1.11
 
